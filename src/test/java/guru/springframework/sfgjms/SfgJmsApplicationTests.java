@@ -12,5 +12,4 @@ public class SfgJmsApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
